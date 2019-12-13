@@ -4,3 +4,4 @@ svd_items_vectors.tsv
 .ipynb_checkpoints/
 saved_word_vectors_metadata.tsv
 saved_word_vectors_vectors.tsv
+lightning_logs/
